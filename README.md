@@ -1,5 +1,5 @@
 
-# Run Buddy Inc.
+# Run Buddy
 
 ## Purpose
 A website that offers fitness training services.
@@ -14,4 +14,4 @@ https://lesanndra.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Lesanndra Morton
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 
